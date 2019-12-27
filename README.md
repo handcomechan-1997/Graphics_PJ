@@ -85,7 +85,7 @@ pygame.display.update()
 
 **效果展示**
 
-![](https://github.com/handcomechan-1997/Graphics_PJ/pics/result1.png)
+![](https://github.com/handcomechan-1997/Graphics_PJ/blob/master/pics/result1.png)
 
 ## project 2
 
@@ -187,7 +187,7 @@ turtle库介绍：https://blog.csdn.net/cx243698/article/details/91047123
 
 **效果展示**
 
-![](https://github.com/handcomechan-1997/Graphics_PJ/pics/result2.png)
+![](https://github.com/handcomechan-1997/Graphics_PJ/blob/master/pics/result2.png)
 
 ## project 3
 
