@@ -85,7 +85,7 @@ pygame.display.update()
 
 **效果展示**
 
-<img src="/Users/handsomechen/Library/Application Support/typora-user-images/image-20191227184257084.png" alt="image-20191227184257084" style="zoom:50%;" />
+![](https://github.com/handcomechan-1997/Graphics_PJ/pics/result1.png)
 
 ## project 2
 
@@ -187,7 +187,7 @@ turtle库介绍：https://blog.csdn.net/cx243698/article/details/91047123
 
 **效果展示**
 
-<img src="/Users/handsomechen/Library/Application Support/typora-user-images/image-20191227190226485.png" alt="image-20191227190226485" style="zoom:50%;" />
+![](https://github.com/handcomechan-1997/Graphics_PJ/pics/result2.png)
 
 ## project 3
 
