@@ -197,7 +197,7 @@ turtle库介绍：https://blog.csdn.net/cx243698/article/details/91047123
 
 **项目环境**
 
-使用软件：adobe animate cc2018
+使用软件：Adobe animate cc2018
 
 **提交文件**
 
